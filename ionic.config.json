@@ -1,0 +1,7 @@
+{
+  "name": "PontoDeHora",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
